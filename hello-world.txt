@@ -1,6 +1,6 @@
 this is hot fix!
 test merg :master
-test merge :hot fix
+test merge :hot fix 2
 hello worled!
 this is 5
 this is 6
